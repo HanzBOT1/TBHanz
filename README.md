@@ -14,9 +14,9 @@
 <a href="https://github.com/TBHanz-spec/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TobyG74/ElainaBOT?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
-   <a href="https://twitter.com/tbhanz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/tbhanz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/tbhanz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
+   
+   <a href="https://instagram.com/papypapipum_"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+  
 </P>
 
 ## Information
@@ -42,7 +42,7 @@ Open setting.js then edit & paste it in YOUR_APIKEY
 - [TOBZAPI](https://tobz-api.herokuapp.com)
 
 Apikey Location
-- [SETTING](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/setting.json)
+- [SETTING](https://github.com/HanzBOT1/TBHanz/blob/main/lib/database/setting.json)
 
 ## Getting Started
 
@@ -65,8 +65,9 @@ Clone this project
 Install the dependencies:
 
 ```bash
-> npm install
-> npm install -g pm2
+> npm install ffmpeg
+> npm install @open-wa/wa-automate
+> npm install sharp
 ```
 
 ### Usage
@@ -96,7 +97,7 @@ after running it you need to scan the qr
 
 ### License
 
-- [Apache License 2.0](https://github.com/TBHanz-spec/blob/main/LICENSE)
+- [Apache License 2.0](https://github.com/HanzBOT1/TBHanz/blob/main/LICENSE)
 
 ---
 ## 120+ Feature
@@ -112,6 +113,27 @@ after running it you need to scan the qr
 |       ✅        | Image To Sticker.               |
 |       ✅        | Text To Picture                 |
 |       ✅        | Text To Gif                     |
+
+|  Others         |              Feature            |
+| :-------------: | :-----------------------------: |
+|       ✅        |   Runtime                       |
+|       ✅        |   Ssweb                         |
+|       ✅        |   Info                          |
+|       ✅        |   Limit                         |
+|       ✅        |   Iklan                         |
+|       ✅        |   Cita cita                     |
+|       ✅        |   Bucin                         |
+|       ✅        |   Simi2                         |
+|       ✅        |   Santet                        |
+|       ✅        |   Mata uang                     |
+|       ✅        |   Convertduit                   |
+|       ✅        |   Tod                           |
+|       ✅        |   Cekprem                       |
+|       ✅        |   List premium                  |
+|       ✅        |   Readme                        |
+|       ✅        |   Ping                          |
+|       ✅        |   Hanz Group                    |
+|       ✅        |   Owner                   |
 
 |.  Downloader    |              Feature            |
 | :-------------: | :-----------------------------: |
