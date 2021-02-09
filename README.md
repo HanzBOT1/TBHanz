@@ -32,11 +32,9 @@ ownerNumber = "6213xxxxxx@c.us"
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [TELEGRAM](https://t.me/tobz2k19)
-- [WHATSAPP](https://wa.me/6281311850715)
-- [MY BOT](wa.me/447418349954)
-- [WHATSAPP GROUP](https://chat.whatsapp.com/JMn559mwKhN56fi4Djep4m)
-
+- [WHATSAPP](https://wa.me/6281226770537)
+- [MY BOT](wa.me/)
+- [WHATSAPP GROUP](https://chat.whatsapp.com/F865lMgswzaJzQw0TCyTlE)
 ## APIKEY
 Open setting.js then edit & paste it in YOUR_APIKEY
 - [VHTEAR](https://api.vhtear.com)
@@ -45,10 +43,6 @@ Open setting.js then edit & paste it in YOUR_APIKEY
 
 Apikey Location
 - [SETTING](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/setting.json)
-
-## Donate
-- [Saweria](https://saweria.co/ItzTobz)
-- [Dana](https://link.dana.id/qr/17mlqta)
 
 ## Getting Started
 
@@ -59,9 +53,6 @@ This is a Bot Group Type, so you have to enter the bot into a group in order to 
 - [DOWNLOAD](https://ffmpeg.org/)
 - [TUTORIAL](https://youtu.be/04Gf6TEnmjk)
 
-### IMAGEMAGICK
-- [DOWNLOAD](https://imagemagick.org/script/download.php)
-Note : Kalo Mau Work, Centang Kolom 1,2,3,5,6
 
 ### Install
 Clone this project
@@ -210,7 +201,12 @@ after running it you need to scan the qr
 |       ✅        |   Listblock                     |
 |       ✅        |   Listbanned                    |
 |       ✅        |   Listgroup                     |
-|       ✅        |   Get Elaina Admin list         |
+|       ✅        |   afk                           |
+|       ✅        |   Mystat                        |
+|       ✅        |   Edotensei                     |
+|       ✅        |   Groupinfo                     |
+|       ✅        |   level                         |
+|       ✅        |   Leaderboard                   |
 |       ✅        |   Get owner group               |
 |       ✅        |   Get group info                |
 |       ✅        |   enable or disable nsfw command|
