@@ -111,7 +111,8 @@ after running it you need to scan the qr
 |       ✅        | Sticker With Gif Url            |
 |       ✅        | Sticker With Fire Gif           |
 |       ✅        | Sticker With Lightning Gif      |
-|       ✅        | Image To Sticker.               |
+|       ✅        | Image To Sticker                |
+|       ✅        | Sticker To Image                |
 |       ✅        | Text To Picture                 |
 |       ✅        | Text To Gif                     |
 
@@ -136,7 +137,7 @@ after running it you need to scan the qr
 |       ✅        |   Hanz Group                    |
 |       ✅        |   Owner                   |
 
-|.  Downloader    |              Feature            |
+|   Downloader    |              Feature            |
 | :-------------: | :-----------------------------: |
 |       ✅        |  YouTube Video/Audio Downloader |
 |       ✅        |  Doujin Downloader              |
@@ -297,11 +298,8 @@ Fix Stuck on linux, install google chrome stable:
 
 ## 🙏 Big Special Thanks To
 
-* [`MHRTZ`](https://github.com/MRHRTZ) 
+* [`URBAEEXYZ`](https://github.com/Urbaeexyz/whatsapp-bot2) 
 * [`OpenWA/WA-Automate`](https://github.com/open-wa/wa-automate-nodejs) 
-* [`YogaSakti`](https://github.com/YogaSakti/imageToSticker) 
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot) 
-* [`ItzNgga`](https://github.com/ItzNgga/wa-bot.js) 
-* [`Gimenz`](https://github.com/Gimenz) 
 * [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot) 
 
