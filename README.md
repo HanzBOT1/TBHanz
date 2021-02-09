@@ -58,8 +58,8 @@ This is a Bot Group Type, so you have to enter the bot into a group in order to 
 Clone this project
 
 ```bash
-> git clone https://github.com/TBHanz-spec
-> cd TBHanz-spec
+> git clone https://github.com/HanzBOT1/TBHanz
+> cd HanzBOT1/TBhanz
 ```
 
 Install the dependencies:
@@ -233,10 +233,15 @@ after running it you need to scan the qr
 |       ✅        |   Clear all message             |
 |       ✅        |   Broadcast                     |
 |       ✅        |   Getses                        |
+|       ✅        |   Promoteme                     |
+|       ✅        |   Demoteme                      |
+|       ✅        |   Shutdown                      |
 |       ✅        |   Banchat                       |
 |       ✅        |   Maintenance                   |
 |       ✅        |   Add Admin Hanz                |
 |       ✅        |   Del Admin Hanz                |
+|       ✅        |   Add Premium Hanz              |
+|       ✅        |   Dell Premium Hanz             |
 |       ✅        |   Block                         |
 |       ✅        |   Unblock                       |
 |       ✅        |   Join Group                    |
