@@ -68,7 +68,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/TBHanz-spec
-> cd ElainaBOT
+> cd TBHanz-spec
 ```
 
 Install the dependencies:
@@ -105,7 +105,7 @@ after running it you need to scan the qr
 
 ### License
 
-- [Apache License 2.0](https://github.com/TobyG74/ElainaBOT/blob/main/LICENSE)
+- [Apache License 2.0](https://github.com/TBHanz-spec/blob/main/LICENSE)
 
 ---
 ## 120+ Feature
