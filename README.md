@@ -128,8 +128,23 @@ after running it you need to scan the qr
 |       ✅        |  Joox Downloader                |
 |       ✅        |  Play Music                     |
 
-|      Prayer     |             Feature             |
+| Anime Premium   |              Feature            |
 | :-------------: | :-----------------------------: |
+|       ✅        |   Crygif                        |
+|       ✅        |   Classic                       |
+|       ✅        |   Tickle                        |
+|       ✅        |   Kuni                          |
+|       ✅        |   Kissgif                       |
+|       ✅        |   Ttgif                         |
+|       ✅        |   Feetgif                       |
+|       ✅        |   Anal                          |
+|       ✅        |   Sologif                       |
+|       ✅        |   Lesbian                       |
+|       ✅        |   Trapnime                      |
+|       ✅        |   Nekonsfw                      |
+
+|      Prayer     |             Feature             |
+| :-------------: | :-----------------------------: |  
 |       ✅        |   Jadwalsholat                  |
 |       ✅        |   List Daerah                   |
 |       ✅        |   Al-Quran                      |
