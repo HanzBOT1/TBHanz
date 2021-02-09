@@ -15,7 +15,7 @@ BACA README NYA, PERCUMA W BUAT README
 INGAT JANGAN JUAL SCRIPT hanz KEPADA ORANG LAIN!
 INGIN PREMIUM? CHAT hanz!
 
-hanz BOT V3
+HANZ BOT V3
 */
 require('dotenv').config()
 const { decryptMedia } = require('@open-wa/wa-decrypt')
